@@ -6,5 +6,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m mobile developer.
+- 🔭 I’m a mobile developer.
 - 🌱 I create apps in flutter and native android.
