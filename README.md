@@ -5,6 +5,6 @@
 -->
 
 - a developer.
-- writes code, creates mobile apps and websites.
+- I write code, create mobile apps and websites.
 
 Portfolio Link - https://himanshu240601.github.io/portfolio/
