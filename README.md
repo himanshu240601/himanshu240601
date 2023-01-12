@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=himanshu240601&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=himanshu240601&style=flat-square&color=blue&label=Profile+Views" alt="profile views"/>
 </div>
 
 <h1 align="center">
