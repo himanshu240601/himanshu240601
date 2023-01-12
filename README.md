@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript badge"/>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="python badge"/>
   <img src="https://img.shields.io/badge/Php-787cb4?style=for-the-badge&logo=php&logoColor=white" alt="php badge"/>
-  <img src="https://img.shields.io/badge/Mysql-fafafa?style=for-the-badge&logo=mysql&logoColor=black" alt="mysql badge"/>
+  <img src="https://img.shields.io/badge/Mysql-edede9?style=for-the-badge&logo=mysql&logoColor=black" alt="mysql badge"/>
   
   <img src="https://img.shields.io/badge/Html-dd4b25?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
   <img src="https://img.shields.io/badge/Css-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
