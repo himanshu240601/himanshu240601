@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=himanshu240601&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  Hey! I'm Himanshu<br/>
-  <p>Nice to meet you!</p>
-</h1>
+<div align="center">
+  #Hey! I'm Himanshu<br/>
+  ###Nice to meet you!
+</div>
