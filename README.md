@@ -29,7 +29,7 @@
 <br/>
 <br/>
 <h2> Tools I'm Using</h2>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java badge"/>
   <img src="https://img.shields.io/badge/Kotlin-b71fe8?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin badge"/>
   <img src="https://img.shields.io/badge/Android_Studio-17b673?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio badge"/>
