@@ -42,13 +42,13 @@
   <img src="https://img.shields.io/badge/Php-787cb4?style=for-the-badge&logo=php&logoColor=white" alt="php badge"/>
   <img src="https://img.shields.io/badge/Mysql-fafafa?style=for-the-badge&logo=mysql&logoColor=black" alt="mysql badge"/>
   
-  <img src="https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
-  <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
+  <img src="https://img.shields.io/badge/Html-dd4b25?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
+  <img src="https://img.shields.io/badge/Css-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
   
-  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter badge"/>
-  <img src="https://img.shields.io/badge/Reactjs-blue?style=for-the-badge&logo=react&logoColor=white" alt="reactjs badge"/>
-  <img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=django&logoColor=white" alt="django badge"/>
+  <img src="https://img.shields.io/badge/Flutter-54c5f8?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter badge"/>
+  <img src="https://img.shields.io/badge/Reactjs-222222?style=for-the-badge&logo=react&logoColor=white" alt="reactjs badge"/>
+  <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white" alt="django badge"/>
   
-  <img src="https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=figma&logoColor=white" alt="figma badge"/>
+  <img src="https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" alt="figma badge"/>
 </p>
 
