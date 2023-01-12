@@ -24,12 +24,12 @@
 <br/>
 <br/>
 <div align="center">
-   <img src = "https://github-readme-streak-stats.herokuapp.com?user=himanshu240601&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=himanshu240601&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
 </div>
 <br/>
 <br/>
 <h2> Tools I'm Using</h2>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java badge"/>
   <img src="https://img.shields.io/badge/Kotlin-b71fe8?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin badge"/>
   <img src="https://img.shields.io/badge/Android_Studio-17b673?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio badge"/>
