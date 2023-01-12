@@ -14,5 +14,5 @@
 </div>
 
 <h2 align="center">
-  Hey! I'm Himanshu👋
+  Hey! I'm Himanshu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h2>
