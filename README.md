@@ -6,6 +6,9 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 <!-- ### Hi, I'm Himanshu👋 - https://himanshu240601.github.io/portfolio/
