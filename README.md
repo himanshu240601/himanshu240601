@@ -1,17 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
-  <a href="your-linkedin-URL">
+  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/himanshu-goyal24/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://himanshu240601.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
+</div>
 
-<!-- ### Hi, I'm Himanshu👋 - https://himanshu240601.github.io/portfolio/
+<!-- ### Hi, I'm Himanshu👋 - 
 
 
 - I'm a developer.
