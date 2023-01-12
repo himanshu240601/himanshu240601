@@ -14,6 +14,6 @@
 </div>
 
 <h1 align="center">
-  Hey! I'm Himanshu
+  Hey! I'm Himanshu<br/>
+  <p>Nice to meet you!</p>
 </h1>
-<p align="center">Nice to meet you!</p>
