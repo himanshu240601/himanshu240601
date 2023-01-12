@@ -14,6 +14,6 @@
 </div>
 
 <div align="center">
-  # Hey! I'm Himanshu<br/>
-  ### Nice to meet you!
+  <h2>Hey! I'm Himanshu</h2>
+  <p>Nice to meet you!</p>
 </div>
