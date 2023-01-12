@@ -32,7 +32,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java badge"/>
   <img src="https://img.shields.io/badge/Kotlin-b71fe8?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin badge"/>
-  <img src="https://img.shields.io/badge/Android_Studio-4de090?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio badge"/>
+  <img src="https://img.shields.io/badge/Android_Studio-17b673?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio badge"/>
   <img src="https://img.shields.io/badge/Firebase-ffcc2d?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase badge"/>
   <img src="https://img.shields.io/badge/Visual_Studio-006db0?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode badge"/>
   
