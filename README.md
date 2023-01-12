@@ -1,4 +1,7 @@
-### Hi, I'm Himanshu👋 - https://himanshu240601.github.io/portfolio/
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<!-- ### Hi, I'm Himanshu👋 - https://himanshu240601.github.io/portfolio/
 
 
 - I'm a developer.
@@ -7,3 +10,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=[page.id](https://github.com/himanshu240601))
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshu240601&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ -->
