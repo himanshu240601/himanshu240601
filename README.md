@@ -9,6 +9,9 @@
     <a href="https://himanshu240601.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio badge"/>
     </a>
+    <a href="https://himanshugoyal.hashnode.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="haashnode badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=himanshu240601&style=flat-square&color=blue&label=Profile+Views" alt="profile views"/>
 </div>
