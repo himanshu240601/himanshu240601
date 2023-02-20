@@ -35,9 +35,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java badge"/>
   <img src="https://img.shields.io/badge/Kotlin-b71fe8?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin badge"/>
-  <img src="https://img.shields.io/badge/Android_Studio-17b673?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio badge"/>
   <img src="https://img.shields.io/badge/Firebase-ffcc2d?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase badge"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-006db0?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode badge"/>
   
   <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++ badge"/>
   <img src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript badge"/>
@@ -45,9 +43,6 @@
   <img src="https://img.shields.io/badge/Php-787cb4?style=for-the-badge&logo=php&logoColor=white" alt="php badge"/>
   <img src="https://img.shields.io/badge/Swift-FFA500?style=for-the-badge&logo=swift&logoColor=white" alt="swift badge"/>
   <img src="https://img.shields.io/badge/Mysql-edede9?style=for-the-badge&logo=mysql&logoColor=black" alt="mysql badge"/>
-  
-  <img src="https://img.shields.io/badge/Html-dd4b25?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
-  <img src="https://img.shields.io/badge/Css-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
   
   <img src="https://img.shields.io/badge/Flutter-54c5f8?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter badge"/>
   <img src="https://img.shields.io/badge/Reactjs-222222?style=for-the-badge&logo=react&logoColor=white" alt="reactjs badge"/>
