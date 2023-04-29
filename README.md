@@ -1,53 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <br/>
-  <br/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/himanshu-goyal24/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
-    </a>
-    <a href="https://himanshu240601.github.io/portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio badge"/>
-    </a>
-    <a href="https://himanshugoyal.hashnode.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="haashnode badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=himanshu240601&style=flat-square&color=blue&label=Profile+Views" alt="profile views"/>
-</div>
+# Hi, I'm Himanshu 💻
 
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px">,
-  I'm Himanshu
-</h1>
+I'm a highly motivated and passionate Software Developer with an experience in mobile and web development. Pursuing a Bachelor's degree in Computer Science, I'm proficient in a variety of technologies including Android and iOS platforms, HTML, CSS, and JavaScript, as well as languages such as Java, Python, and C++. With experience in database management and API integrations, I am committed to problem-solving and delivering high-quality results.
 
-<h4 align="center">
-  Writing Code 👨‍💻 | Creating Apps 🚀
-</h4>
-<br/>
-<br/>
-<div align="center">
-   <img src = "https://github-readme-streak-stats.herokuapp.com?user=himanshu240601&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-</div>
-<br/>
-<br/>
-<h2> Tools I'm Using</h2>
-<p>
-  <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java badge"/>
-  <img src="https://img.shields.io/badge/Kotlin-b71fe8?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin badge"/>
-  <img src="https://img.shields.io/badge/Firebase-ffcc2d?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase badge"/>
-  
-  <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++ badge"/>
-  <img src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript badge"/>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="python badge"/>
-  <img src="https://img.shields.io/badge/Php-787cb4?style=for-the-badge&logo=php&logoColor=white" alt="php badge"/>
-  <img src="https://img.shields.io/badge/Swift-FFA500?style=for-the-badge&logo=swift&logoColor=white" alt="swift badge"/>
-  <img src="https://img.shields.io/badge/Mysql-edede9?style=for-the-badge&logo=mysql&logoColor=black" alt="mysql badge"/>
-  
-  <img src="https://img.shields.io/badge/Flutter-54c5f8?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter badge"/>
-  <img src="https://img.shields.io/badge/Reactjs-222222?style=for-the-badge&logo=react&logoColor=white" alt="reactjs badge"/>
-  <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white" alt="django badge"/>
-  
-  <img src="https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" alt="figma badge"/>
-</p>
+As an effective team player with good communication skills, I have consistently demonstrated the ability to self-manage and collaborate in diverse environments. With a focus on innovation and a deep commitment to enhancing my skills and knowledge, I am always looking for new challenges and opportunities to excel in this field of software development.
 
+## Find me around the web 🌎: 
+- <a href="https://www.linkedin.com/in/himanshu-goyal24/">Linkedin</a>
+- <a href="https://himanshugoyal.hashnode.dev/">Hashnode</a>
+- <a href="https://www.instagram.com/android_dev13/">Instagram</a>
