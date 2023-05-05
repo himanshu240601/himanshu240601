@@ -5,4 +5,4 @@ I'm a Software Developer with an experience in mobile and web development. I'm p
 ## Find me around the web: 
 - <a href="https://www.linkedin.com/in/himanshu-goyal24/">Linkedin</a> 👨‍💻
 - <a href="https://himanshugoyal.hashnode.dev/">Hashnode</a> ✍️
-- <a href="https://www.instagram.com/android_dev13/">Instagram</a> 💫
+- <a href="https://www.instagram.com/himanshugoyal07/">Instagram</a> 💫
