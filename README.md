@@ -17,3 +17,5 @@ My work includes areas such as:
 - Developer-focused tools and utilities
 
 I’m especially interested in **mobile architecture, SDK development, AI-powered apps, AR, and building polished user experiences**.
+
+Connect with me on [X](https://x.com/Himanshu_042)
