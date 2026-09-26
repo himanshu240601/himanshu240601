@@ -1,6 +1,6 @@
 # Hi, I'm Himanshu 👋
 
-Mobile Engineer focused primarily on **iOS development**, with experience across **Swift, SwiftUI, UIKit, Flutter, Android, SDK development, AR, BLE/IoT, and mobile architecture**.
+Mobile Engineer focused primarily on **iOS development**, with experience across **Swift, SwiftUI, UIKit, Flutter, React Native, Android, SDK development, AR, BLE/IoT, and mobile architecture**.
 
 I enjoy building production-ready mobile applications, reusable SDKs, developer tools, and product-focused experiences across mobile platforms.
 
