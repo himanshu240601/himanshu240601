@@ -18,4 +18,4 @@ My work includes areas such as:
 
 I’m especially interested in **mobile architecture, SDK development, AI-powered apps, AR, and building polished user experiences**.
 
-Connect with me on [X](https://x.com/Himanshu_042)
+Connect with me on X at [Himanshu_042](https://x.com/Himanshu_042)
